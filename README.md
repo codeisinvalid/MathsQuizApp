@@ -49,17 +49,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the basic Maths Quiz App that I created using Android Studio.
+This is the basic Maths Quiz Android App.
 
 <br />
 
-It contains four basic mathematical operations, i.e, Addition, Subtraction, Multiplication, Division. You can choose any one of the operation.Then you will be presented random questions based on the operation that you previously selected. A 30 seconds countdown timer starts, as soon as you select any operation. Within the span of 30 seconds, the number of questions you correctly answered out of the total number of questions you attempted will be your final score.
+It contains four basic mathematical operations, i.e, Addition, Subtraction, Multiplication, Division. You can choose any one of the operation.Then you will be presented random questions based on the operation that you previously selected. A 30 seconds countdown timer starts, as soon as you select any operation. Within the span of 30 seconds, the number of questions you correctly answered out of the total number of questions you attempted will be your final score. You can play again on clicking the Play Again button.
+
 
 
 
 ### Built With
 
-This project is built using Java and XML. 
+This project is entirely built using Java and XML in Android Studio. 
 * [![Java][Java.com]][Java-url] 
 * [![Android Studio][AStudio.com]][AStudio-url]
 
