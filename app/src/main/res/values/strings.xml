@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maths Quiz App</string>
+    <string name="go">Play !</string>
+    <string name="sum">Addition</string>
+    <string name="subtract">Subtraction</string>
+    <string name="multiply">Multiplication</string>
+    <string name="divide">Division</string>
+    <string name="chooseMsg">Choose any Operation !</string>
+</resources>
